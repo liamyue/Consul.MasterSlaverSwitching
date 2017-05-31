@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\bin\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.deps.json
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\bin\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.dll
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\obj\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.AssemblyInfo.cs
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\bin\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.pdb
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\obj\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.dll
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\obj\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.pdb

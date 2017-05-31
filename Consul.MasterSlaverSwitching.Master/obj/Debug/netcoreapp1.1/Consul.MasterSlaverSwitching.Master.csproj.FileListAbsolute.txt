@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching.Master\bin\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.Master.deps.json
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching.Master\bin\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.Master.runtimeconfig.json
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching.Master\bin\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.Master.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching.Master\bin\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.Master.dll
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching.Master\bin\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.Master.pdb
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching.Master\bin\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.dll
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching.Master\bin\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.pdb
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching.Master\obj\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.Master.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching.Master\obj\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.Master.AssemblyInfo.cs
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching.Master\obj\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.Master.dll
+C:\Users\admin\Desktop\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching\Consul.MasterSlaverSwitching.Master\obj\Debug\netcoreapp1.1\Consul.MasterSlaverSwitching.Master.pdb
